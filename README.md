@@ -2,7 +2,8 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gosmf12)](https://solved.ac/gosmf12/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammajoe&layout=compact&hide_border=true)](https://github.com/ammajoe)        
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gosmf12)](https://solved.ac/gosmf12/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammajoe&layout=compact&hide_border=true)](https://github.com/ammajoe)        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammajoe&show_icons=true&theme=radical)
 
 <!--
